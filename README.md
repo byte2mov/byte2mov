@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🛠  Currently working on reverse engineering toolkits<br>- 💁‍♂️  Looking to collaborate on anti-reverse engineering software<br>- 📚  Improving malware reversal skills<br>- 👨‍🎓  Senior in high school
+- 🛠  Currently working on reverse engineering toolkits<br> - 💁‍♂️  Looking to collaborate on anti-reverse engineering software<br>- 📚  Improving malware reversal skills<br>- 👨‍🎓  Senior in high school
 
 
 ## 🌐 Socials:
